@@ -40,7 +40,7 @@ Providing actionable insights to enhance business strategies and decision-making
 
 Key Performance Indicators (KPIs):
 
-**Total Sales**: $1.20M
+Total Sales: $1.20M
 
 Average Sales per Item: $141
 
