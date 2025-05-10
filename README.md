@@ -17,9 +17,9 @@ This project focuses on analyzing sales and customer satisfaction data from the 
 
 * Understanding sales distribution across product categories, outlet types, and locations.
 
-Identifying key factors influencing sales performance, such as fat content, outlet size, and location.
+* Identifying key factors influencing sales performance, such as fat content, outlet size, and location.
 
-Providing actionable insights to enhance business strategies and decision-making processes.
+* Providing actionable insights to enhance business strategies and decision-making processes.
 
 
 # Highlights
@@ -35,49 +35,49 @@ Providing actionable insights to enhance business strategies and decision-making
 
 # Tools Used
 
-**Power BI**: For data visualization and dashboard creation.
+* **Power BI**: For data visualization and dashboard creation.
 
-**GitHub**: For version control and project documentation.
+* **GitHub**: For version control and project documentation.
 
 
 # Key Insights
 
 **Key Performance Indicators (KPIs):**
 
-**Total Sales:** $1.20M
+* **Total Sales:** $1.20M
 
-**Average Sales per Item:** $141
+* **Average Sales per Item:** $141
 
-**Number of Items Sold:** 8,523
+* **Number of Items Sold:** 8,523
 
-**Average Customer Rating:** 3.9
+* **Average Customer Rating:** 3.9
 
 
 # Sales Insights:
 
-**Sales by Fat Content:**
+* **Sales by Fat Content:**
 
-**Low Fat:** $776.32K
+* **Low Fat:** $776.32K
 
-**Regular:** $425.36K
+* **Regular:** $425.36K
 
 
 # Sales by Outlet Types:
 
-**Supermarket Type1:** $787.55K (5,577 items, Avg. Rating: 3.92)
+* **Supermarket Type1:** $787.55K (5,577 items, Avg. Rating: 3.92)
 
-**Grocery Store:** $151.94K (1,083 items, Avg. Rating: 3.93)
+* **Grocery Store:** $151.94K (1,083 items, Avg. Rating: 3.93)
 
-**Supermarket Type2:** $131.48K (928 items, Avg. Rating: 3.93)
+* **Supermarket Type2:** $131.48K (928 items, Avg. Rating: 3.93)
 
-**Supermarket Type3:** $130.71K (935 items, Avg. Rating: 3.91)
+* **Supermarket Type3:** $130.71K (935 items, Avg. Rating: 3.91)
 
 
 # Sales by Location and Outlet Size:
 
-**Tier 3 Locations:** $472.13K
+* **Tier 3 Locations:** $472.13K
 
-**Medium-Sized Outlets:** $507.90K
+* **Medium-Sized Outlets:** $507.90K
 
 
 # Customer Preferences:
@@ -87,20 +87,20 @@ Top-performing categories included Fruits and Vegetables, Snack Foods, Household
 
 # Results
 
-**Created a comprehensive dashboard that reduced data interpretation time by 35%.**
+* **Created a comprehensive dashboard that reduced data interpretation time by 35%.**
 
-**Insights suggested targeted promotions for tier-3 locations and medium-sized outlets, improving marketing strategy efficiency.**
+* **Insights suggested targeted promotions for tier-3 locations and medium-sized outlets, improving marketing strategy efficiency.**
 
-**Enhanced understanding of customer preferences, driving optimized inventory management and product offerings.**
+* **Enhanced understanding of customer preferences, driving optimized inventory management and product offerings.**
 
 
 # Future Scope
 
-**Customer Engagement:** Address customer feedback to improve average ratings beyond 4.0.
+* **Customer Engagement:** Address customer feedback to improve average ratings beyond 4.0.
 
-**Inventory Optimization:** Focus on high-demand items to minimize stockouts and reduce inventory for slower-moving products.
+* **Inventory Optimization:** Focus on high-demand items to minimize stockouts and reduce inventory for slower-moving products.
 
-**Expanding Categories:** Introduce new product varieties in high-performing categories like Fruits and Vegetables.
+* **Expanding Categories:** Introduce new product varieties in high-performing categories like Fruits and Vegetables.
 
 
 # Conclusion
