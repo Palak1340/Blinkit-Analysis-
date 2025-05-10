@@ -6,7 +6,7 @@
 
 **Blinkit Data Analysis & Dashboard Visualization**
 
-**Harnessing Data Visualization to Enhance Business Decision-Making**
+Harnessing Data Visualization to Enhance Business Decision-Making
 
 This project focuses on analyzing sales and customer satisfaction data from the Blinkit application to uncover trends and actionable insights. The insights derived aim to optimize inventory management, improve marketing strategies, and drive business growth through advanced Power BI dashboards.
 
