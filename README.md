@@ -1,8 +1,8 @@
-# Blinkit-Analysis-Dashboard#
+# Blinkit-Analysis-Dashboard
 ![blinkit](https://github.com/user-attachments/assets/5f013aa6-fa76-4742-b0e8-0c5daf3bb0a2)
 
 
-**About this project**
+#**About this project**
 
 Blinkit Data Analysis & Dashboard Visualization
 
