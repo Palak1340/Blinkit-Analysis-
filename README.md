@@ -80,7 +80,7 @@ Providing actionable insights to enhance business strategies and decision-making
 **Medium-Sized Outlets:** $507.90K
 
 
-#Customer Preferences:
+# Customer Preferences:
 
 Top-performing categories included Fruits and Vegetables, Snack Foods, Household items, and Frozen Foods.
 
