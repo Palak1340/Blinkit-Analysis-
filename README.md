@@ -15,7 +15,7 @@ This project focuses on analyzing sales and customer satisfaction data from the 
 
 **To analyze Blinkit sales and customer satisfaction data with the goals of:**
 
-Understanding sales distribution across product categories, outlet types, and locations.
+* Understanding sales distribution across product categories, outlet types, and locations.
 
 Identifying key factors influencing sales performance, such as fat content, outlet size, and location.
 
